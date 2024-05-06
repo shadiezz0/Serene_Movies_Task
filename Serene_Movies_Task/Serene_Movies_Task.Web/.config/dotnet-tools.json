@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "sergen": {
+      "version": "8.4.7",
+      "commands": [
+        "sergen"
+      ]
+    }
+  }
+}
